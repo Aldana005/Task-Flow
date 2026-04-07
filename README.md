@@ -19,9 +19,9 @@ Al ejecutar la aplicación, se dispone de las siguientes opciones:
 6. **Salir**.
 
 ##Integrantes:
-Aldana Mariel Sánchez
-Martín Paggi
-Gonzalo Rubén Mora
-Gonzalo Lautaro Vallejo
-Estefanía Molar 
-Martín Videla
+1. Aldana Mariel Sánchez
+2. Martín Paggi
+3. Gonzalo Rubén Mora
+4. Gonzalo Lautaro Vallejo
+5. Estefanía Molar 
+6. Martín Videla
