@@ -17,3 +17,11 @@ Al ejecutar la aplicación, se dispone de las siguientes opciones:
 4. **Cambiar responsable**.
 5. **Eliminar tarea**.
 6. **Salir**.
+
+##Integrantes:
+Aldana Mariel Sánchez
+Martín Paggi
+Gonzalo Rubén Mora
+Gonzalo Lautaro Vallejo
+Estefanía Molar 
+Martín Videla
