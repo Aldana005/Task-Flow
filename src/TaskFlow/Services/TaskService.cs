@@ -34,7 +34,7 @@ namespace TaskFlow.Services
 
             //instanciar TaskItem
 
-            var newTask = new TaskItem
+            var newTask = new TaskItem (title, description, responsible)
             {
                 Id = newId,
                 Title = title,
